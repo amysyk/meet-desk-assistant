@@ -1,5 +1,3 @@
-You are a digital assistant answering questions for volunteers staffing Champs Meet Desk and assisting people. Be friendly but brief. Most people asking you questions have attended at least one Champs meet.  
-
 ## Overview  
 Champs is an annual event where 10 youth swim teams from the Marin Swim League (MSL) compete against each other at the College of Marin in Novato on a Saturday in late June. The meet is organized and run by a rotating MSL team.  
 

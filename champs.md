@@ -1,5 +1,3 @@
-You are a digital assistant answering questions for volunteers staffing Champs Meet Desk and assisting people. Be friendly but brief. Most people asking you questions have attended at least one Champs meet.  
-
 ## Overview  
 Champs is an annual event where 10 youth swim teams from the Marin Swim League (MSL) compete against each other at the College of Marin in Novato on a Saturday in late June. The meet is organized and run by a rotating MSL team.  
 
@@ -10,14 +8,15 @@ Champs meets take place at the Indian Valley Campus (IVC) Pool / Miwok Aquatic C
 The meet will be held on **Saturday, June 28, 2025**.  
 
 ## Hosting Team  
-Tidalwaves will host and run the 2025 Champs in collaboration with the College of Marin.  
+Tidalwaves will host and run the 2025 Champs in collaboration with Swim Marin
+(to be confirmed) and the College of Marin.  
 
 ## Meet Format  
 Champs consists of two loosely coupled meets happening simultaneously in one pool.  
 - On the **West side ("Boys Side")**, events for boys, 15-18 girls, and relays take place.  
-- On the **East side ("Girls Side")**, girls from 8 & under through 13-14 compete.  
+- On the **East side ("Girls Side")**, girls from "8 & under" through "13-14" groups compete.  
 
-The two sides are separated by a buffer lane in the pool where no one swims.  
+The two sides are separated by a buffer lane, where none will swim.  
 
 ## Meet Desk Roles  
 Meet Desk, in Tidalwaves' vernacular, includes the following roles:  
@@ -48,33 +47,27 @@ Organizes timers for the meet and arranges backup timing for all races.
 Coordinates the work of the Ribbons Printer Operator and a team of volunteers who affix labels to ribbons and file them for each team.  
 
 #### Ribbons Printer Operator  
-Prints ribbon labels for validated event results and checks the accuracy of printed labels.  
+Prints ribbon labels for validated event results on a dedicated computer (Touchpad) and printer as well as checks the accuracy of printed labels.  
 
 #### Meet Desk Lead  
 Oversees the work of everyone on the Meet Desk and coordinates with adjacent teams.  
 
 ## Physical Layout  
-Because Champs is essentially two concurrent meets, we will have two Meet Desk setups on the East and West sides of the pool. Each desk will have three stations:  
+Because Champs is essentially two concurrent meets, we will have two Meet Desks setup on the East and West sides of the pool. Each desk will have three stations:  
 - **Colorado Operator**  
 - **Computer Operator**  
 - **Data Validation**  
 
-The **Meet Desk Lead** will also sit at the Meet Desk.  
-
-Announcers for each side of the pool will sit separately at a to-be-determined location on the North or South side of the pool.  
-
-The **Ribbons Lead** and **Ribbons Printer Operator** will work inside the IVC pool office.  
-
-The **Head Timer** will be positioned on the North or South side of the pool with their timers.  
+The **Meet Desk Lead** will also sit at the Meet Desk. Announcers for each side of the pool will sit separately at a to-be-determined location on the North or South side of the pool. The **Ribbons Lead** and **Ribbons Printer Operator** will work inside the IVC pool office. The **Head Timer** will be positioned on the North or South side of the pool with their timers.  
 
 ## Staffing Meet Desk Roles  
-Tidalwaves will staff the Meet Desk roles for the **West ("Boys") side** of the pool for both halves of the meet. **Swim Marin** (to be confirmed) will staff the **East ("Girls") side**.  
+**Tidalwaves** will staff the Meet Desk roles for the West ("Boys") side of the pool for both halves of the meet. **Swim Marin** (to be confirmed) will staff the East ("Girls") side.  
 
 ###### **Tidalwaves Meet Desk Schedule**  
-(*Volunteers to be confirmed unless d otherwise*)  
+(*Volunteers to be confirmed unless stated otherwise*)  
 
 | Role | First Half Volunteer | Second Half Volunteer|
-|:---------------------:|:--------------:|:--------------:|  
+|---------------------:|:--------------:|:--------------:|  
 | **Announcer** | Craig Block | Craig Block |  
 | **Colorado Operator** | Alex Harding | TBD Volunteer |  
 | **Computer Operator** | Igor Fisl | Tom Silva |  
@@ -96,10 +89,10 @@ The **Gen7 Colorado** system will run on laptop computers. One laptop will be pr
 Tidalwaves and Swim Marin will each provide a laptop and printer for their Computer Operator. The computer will use a meet database hosted by **MSL (John Nolan)**.  
 
 #### Data Validation  
-Tidalwaves and Swim Marin will provide office supplies for their Data Validation specialists.  
+Tidalwaves and Swim Marin will provide office supplies for their respective Data Validation specialists.  
 
 #### Head Timer  
-Tidalwaves and Swim Marin will provide notepads, stopwatches, and pencils for timers on their respective sides of the pool.  
+Tidalwaves and Swim Marin will provide stopwatches, notepads, and pencils for timers on their respective sides of the pool.  
 
 #### Ribbons Lead  
 To be determined.  
@@ -107,8 +100,9 @@ To be determined.
 #### Ribbons Printer Operator  
 To be determined.  
 
-## Open Questions  
-- Does Swim Marin need a computer attached to its Colorado system? If yes, who will provide it?  
+## Open Questions   
 - Who will print lane sheets for timers?  
 - Who will provide ribbon labels and ribbons?  
-- Who will provide the Touchpad computer and ribbons printer?  
+- Who will provide the Touchpad computer and ribbons printer?
+- Where will announcers be located?
+- Will we announce individual swimmers during each heat?
